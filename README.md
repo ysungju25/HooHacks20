@@ -1,2 +1,2 @@
 # HooHacks20
-_.Team Members: SJ, Jack, Iza, Sean, Madison._
+_Team Members: SJ, Jack, Iza, Sean, Madison_
